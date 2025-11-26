@@ -1,5 +1,7 @@
 import streamlit as st
 import requests
+import os
+BACKEND_URL = os.getenv("BACKEND_URL", "http://backend:4000")
 
 st.set_page_config(page_title="Chatbot Engenharia UNOESC", page_icon="🤖")
 
@@ -13,7 +15,7 @@ if st.button("Enviar"):
         st.warning("Digite alguma pergunta!")
     else:
         response = requests.post(
-            "http://localhost:4000/ask",
+            BACKEND_URL + "/ask",
             json={"question": question}
         )
         answer = response.json()["answer"]
