@@ -8,4 +8,21 @@ def load_knowledge():
 
 def ask_gemini(question):
     context = load_knowledge()
-    return context
+
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=f"""
+        Você é um agente especializado em responder perguntas sobre o curso de Engenharia de Computação
+        SOMENTE usando as informações da base de conhecimento.
+
+        BASE DE CONHECIMENTO:
+        {context}
+
+        Pergunta do usuário:
+        {question}
+
+        Responda de forma objetiva, clara e sem inventar informações.
+        """
+    )
+
+    return response.text
