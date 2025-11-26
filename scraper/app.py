@@ -9,6 +9,8 @@ OUTPUT_FILE = "../backend/ai/base_conhecimento.md"
 
 PAGES = [
     "https://www.unoesc.edu.br/cursos/engenharia-de-computacao",
+    "https://www.unoesc.edu.br/sobre-a-unoesc/reitoria/",
+    "https://www.unoesc.edu.br/atendimento-ao-estudante/bolsas-de-estudo/"
 ]
 
 PDF_LINKS = [
