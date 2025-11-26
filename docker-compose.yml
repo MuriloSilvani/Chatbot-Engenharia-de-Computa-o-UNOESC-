@@ -1,11 +1,9 @@
-version: "3.9"
-
 services:
   backend:
     build: ./backend
     container_name: chatbot-backend
     environment:
-      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - GEMINI_API_KEY=AIzaSyCETMzuG6bM3zJ9sPU9R_JUWH-DIIfO47Q
     ports:
       - "4000:4000"
     restart: unless-stopped

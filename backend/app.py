@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from ai.response_engine import ask_gemini
 
 app = Flask(__name__)
 
@@ -10,7 +11,8 @@ def health_check():
 def ask():
     data = request.json
     question = data["question"]
-    return jsonify({"answer": question})
+    answer = ask_gemini(question)
+    return jsonify({"answer": answer})
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=4000, debug=True)
