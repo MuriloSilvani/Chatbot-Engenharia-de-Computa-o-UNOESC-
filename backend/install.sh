@@ -23,3 +23,7 @@ echo "[4/5] Instalando dependências..."
 pip install -r requirements.txt
 
 echo "[5/5] Instalação completa!"
+echo ""
+echo "🔥 Para iniciar o BACKEND:"
+echo "sh start.sh"
+echo ""
