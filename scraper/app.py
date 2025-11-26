@@ -105,6 +105,42 @@ def fetch_ementario():
 
     return final_text
 
+
+def fetch_professores():
+    print("👨‍🏫 Buscando lista de professores...")
+
+    url = "https://www.unoesc.edu.br/cursos/wp-json/wst/v1/teachers?course_id=4788&campus_id=600"
+
+    try:
+        resp = requests.get(url, verify=False, timeout=10)
+        data = resp.json()
+    except Exception as e:
+        print("❌ Erro ao obter professores:", e)
+        return ""
+
+    if not data.get("status", False):
+        print("❌ Resposta inválida da API de professores.")
+        return ""
+
+    professores = data["data"]
+
+    final_text = "## 👨‍🏫 Professores do Curso\n\n"
+
+    for prof in professores:
+        name = prof.get("name", "Nome não informado")
+        lattes = prof.get("lattes", "Sem link Lattes")
+        pid = prof.get("id")
+
+        final_text += f"""
+### 👤 {name}
+- ID: {pid}
+- Lattes: {lattes}
+
+---
+"""
+
+    return final_text
+
 def generate_knowledge_base():
     print("🧠 Gerando base de conhecimento...")
     final_md = "# Base de Conhecimento — Engenharia de Computação (UNOESC)\n\n"
@@ -124,6 +160,10 @@ def generate_knowledge_base():
     ementario_md = fetch_ementario()
     final_md += "\n\n---\n## Ementário Completo\n\n"
     final_md += ementario_md
+
+    professores_md = fetch_professores()
+    final_md += "\n\n---\n## Professores\n\n"
+    final_md += professores_md
 
     with open(OUTPUT_FILE, "w") as f:
         f.write(final_md)
