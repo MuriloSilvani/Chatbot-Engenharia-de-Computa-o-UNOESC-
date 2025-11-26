@@ -13,7 +13,7 @@ if st.button("Enviar"):
         st.warning("Digite alguma pergunta!")
     else:
         response = requests.post(
-            "http://localhost:5000/ask",
+            "http://localhost:4000/ask",
             json={"question": question}
         )
         answer = response.json()["answer"]
