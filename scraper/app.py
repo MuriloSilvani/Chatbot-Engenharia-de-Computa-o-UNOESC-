@@ -49,6 +49,62 @@ def fetch_pdf(url):
     os.remove(fname)
     return text.strip()
 
+def fetch_ementario():
+    print("📘 Buscando ementário das disciplinas...")
+
+    subjects_url = "https://www.unoesc.edu.br/cursos/wp-json/wst/v1/subjects?course_id=4788"
+    ementario_url_template = "https://www.unoesc.edu.br/cursos/wp-json/wst/v1/ementario?course_id=4788&subject_id={}&campus_id=600"
+
+    try:
+        resp = requests.get(subjects_url, verify=False, timeout=10)
+        data = resp.json()
+    except Exception as e:
+        print("❌ Erro ao obter disciplinas:", e)
+        return ""
+
+    if not data.get("status", False):
+        print("❌ Resposta inválida da API de subjects.")
+        return ""
+
+    subjects = data["data"]["subjects"]
+
+    final_text = "## 📚 Ementário das Disciplinas\n\n"
+
+    for subj in subjects:
+        sid = subj["id"]
+        title = subj["title"]
+        credits = subj.get("credits")
+        hours = subj.get("hours")
+        fase = subj.get("codigoFase")
+
+        print(f"🔎 Extraindo ementário: {title}")
+
+        try:
+            url = ementario_url_template.format(sid)
+            r = requests.get(url, verify=False, timeout=10)
+            ement = r.json()
+
+            description = ement.get("data", {}).get("description", "Ementário não encontrado")
+            description = clean_text(description)
+
+        except Exception as e:
+            description = f"Erro ao extrair ementário: {e}"
+
+        final_text += f"""
+### 📘 {title}
+
+- Créditos: {credits}
+- Carga horária: {hours}h
+- Fase: {fase}
+
+**Ementário:**  
+{description}
+
+---
+"""
+
+    return final_text
+
 def generate_knowledge_base():
     print("🧠 Gerando base de conhecimento...")
     final_md = "# Base de Conhecimento — Engenharia de Computação (UNOESC)\n\n"
@@ -64,6 +120,10 @@ def generate_knowledge_base():
             final_md += f"## Fonte: {pdf}\n\n{txt}\n\n---\n"
         else:
             final_md += f"## Fonte: {pdf}\n\n*(Conteúdo não extraído — revisão manual necessária)*\n\n---\n"
+
+    ementario_md = fetch_ementario()
+    final_md += "\n\n---\n## Ementário Completo\n\n"
+    final_md += ementario_md
 
     with open(OUTPUT_FILE, "w") as f:
         f.write(final_md)
