@@ -34,8 +34,7 @@ def fetch_html(url):
     text_html = str(main)
 
     markdown = markdownify.markdownify(text_html, heading_style="ATX")
-    markdown = clean_text(markdown)
-    return markdown
+    return clean_text(markdown)
 
 def fetch_pdf(url):
     resp = requests.get(url, stream=True, verify=False)
@@ -49,7 +48,7 @@ def fetch_pdf(url):
             if page_text:
                 text += page_text + "\n"
     os.remove(fname)
-    return text.strip()
+    return clean_text(text)
 
 def fetch_ementario():
     print("📘 Buscando ementário das disciplinas...")
