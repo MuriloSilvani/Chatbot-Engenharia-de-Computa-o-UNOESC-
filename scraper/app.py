@@ -6,7 +6,8 @@ import re
 OUTPUT_FILE = "../backend/ai/base_conhecimento.md"
 
 PAGES = [
-    "https://www.unoesc.edu.br/cursos/engenharia-de-computacao"
+    "https://www.unoesc.edu.br/cursos/engenharia-de-computacao",
+    "https://www.unoesc.edu.br/cursos/wp-content/uploads/sites/2/2025/09/PPC-Engenharia-de-Computacao.pdf"
 ]
 
 def clean_text(text):
