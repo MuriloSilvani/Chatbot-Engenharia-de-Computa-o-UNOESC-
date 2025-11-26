@@ -5,7 +5,17 @@
 ---
 ## Conteúdo extraído de: https://www.unoesc.edu.br/cursos/engenharia-de-computacao
 
-[Página Inicial](https://www.unoesc.edu.br/) [Cursos](https://www.unoesc.edu.br/cursos) Graduação Engenharia de Computação Apresentação [Engenharia de Computação](#) * Apresentação * Como ingressar * Disciplinas * O que acontece * Informações gerais * Destaques do curso ###### Educação Superior # Engenharia de Computação # O CURSO Este é o curso para quem tem fascínio por sistemas computacionais, podendo trabalhar com dispositivos eletrônicos (hardware) capazes de processar informações de acordo com um programa (software). A Unoesc forma um profissional com conhecimento em engenharia, especialmente em sistemas computacionais, capaz de planejar, projetar, desenvolver e implementar sistemas eletrônicos, integrando software e hardware para automação de sistemas em geral. ## Projeto Pedagógico Projeto aprovado pela Resolução N.º 66/CONSUN/2024 [Acesse aqui o documento](https://www.unoesc.edu.br/cursos/wp-content/uploads/sites/2/2025/09/PPC-Engenharia-de-Computacao.pdf) ## Contatos #### Chapecó * **Coordenador**: Prof. Jean Carlos Hennrichs * **E-mail:** engcomputacao.cco@unoesc.edu.br * **Telefones:** (49) 3319-2609 e (49) 3319-2754 #### Joaçaba * **Coordenador:** Prof. Renato Gregolon Scortegagna * **E-mail:** engcomputacao.jba@unoesc.edu.br * **Telefones:** (49) 3551-2087 e (49) 3551-2238 ## Informações gerais * A Unoesc reserva-se o direito de não realizar o curso caso o número mínimo de vagas não seja preenchido. * A Unoesc reserva-se o direito de fazer alterações decorrentes de exigências legais ou de mudanças na política econômica do país. * O corpo docente do curso poderá sofrer alterações em virtude da disponibilidade ou qualquer outro fator que impeça o professor de ministrar componentes curriculares. ![](https://www.unoesc.edu.br/cursos/wp-content/uploads/sites/2/2025/04/Unoesc-1-250x300-1.png) ## MERCADO DE TRABALHO O profissional pode trabalhar em diversas áreas da computação, na área de sistemas computacionais, de equipamentos, programas e inter-relações. Pode atuar em empresas do setor de tecnologia da informação, indústrias de computadores, periféricos, sistemas embarcados, telecomunicações e áreas, como planejamento e gestão de projetos computacionais. O aluno formado também pode trabalhar com a automação de processos industriais e computacionais e em laboratórios de pesquisa científica e tecnológica. O profissional pode ter a própria empresa, trabalhar na iniciativa pública ou privada, ou, ainda, prestar consultoria. ![]() ## Como ingressar #### Seletivo Unoesc Nesta forma de ingresso, a classificação dos candidatos para Cursos de Graduação é feita a partir da análise da média do histórico escolar do ensino médio e também pela nota do ENEM através do boletim de desempenho. O processo seletivo não é válido para o Curso de Medicina. [Saiba mais](https://www.unoesc.edu.br/vestibular-seletivo/#seletivo-unoesc) #### Bolsas de Estudo Conheça quais são as bolsas disponíveis para os acadêmicos. [Saiba mais](https://www.unoesc.edu.br/atendimento-ao-estudante/bolsas-de-estudo/) #### Vestibular Acafe Entre as modalidades de ingresso na Unoesc, está o vestibular. O Curso de Medicina está dentro dessa modalidade, será necessário realizar a prova da Associação Catarinense das Fundações Educacionais (Acafe). [Saiba Mais](https://www.unoesc.edu.br/vestibular-seletivo/#vestibular-acafe) #### Pós-graduação - Especialização Ao preencher o requerimento de inscrição on-line, você deverá anexar os documentos solicitados e seguir os passos indicados no site. Documentos Necessários: ● Diploma de curso de graduação (frente e verso); se ainda não emitido, certidão de conclusão. ● CPF. ## Seletivo Unoesc Nesta forma de ingresso, a classificação dos candidatos para Cursos de Graduação é feita a partir da análise da média do histórico escolar do ensino médio e também pela nota do ENEM através do boletim de desempenho. O processo seletivo não é válido para o Curso de Medicina. [Saiba mais](https://www.unoesc.edu.br/vestibular-seletivo/#seletivo-unoesc) ## Bolsas de Estudo Conheça quais são as bolsas disponíveis para os acadêmicos. [Saiba mais](https://www.unoesc.edu.br/atendimento-ao-estudante/bolsas-de-estudo/) ## Vestibular Acafe Entre as modalidades de ingresso na Unoesc, está o vestibular. O Curso de Medicina está dentro dessa modalidade, será necessário realizar a prova da Associação Catarinense das Fundações Educacionais (Acafe). [Saiba Mais](https://www.unoesc.edu.br/vestibular-seletivo/#vestibular-acafe) ## Pós-graduação - Especialização Ao preencher o requerimento de inscrição on-line, você deverá anexar os documentos solicitados e seguir os passos indicados no site. Documentos Necessários: ● Diploma de curso de graduação (frente e verso); se ainda não emitido, certidão de conclusão. ● CPF.## Fonte: https://www.unoesc.edu.br/cursos/wp-content/uploads/sites/2/2025/09/PPC-Engenharia-de-Computacao.pdf
+[Página Inicial](https://www.unoesc.edu.br/) [Cursos](https://www.unoesc.edu.br/cursos) Graduação Engenharia de Computação Apresentação [Engenharia de Computação](#) * Apresentação * Como ingressar * Disciplinas * O que acontece * Informações gerais * Destaques do curso ###### Educação Superior # Engenharia de Computação # O CURSO Este é o curso para quem tem fascínio por sistemas computacionais, podendo trabalhar com dispositivos eletrônicos (hardware) capazes de processar informações de acordo com um programa (software). A Unoesc forma um profissional com conhecimento em engenharia, especialmente em sistemas computacionais, capaz de planejar, projetar, desenvolver e implementar sistemas eletrônicos, integrando software e hardware para automação de sistemas em geral. ## Projeto Pedagógico Projeto aprovado pela Resolução N.º 66/CONSUN/2024 [Acesse aqui o documento](https://www.unoesc.edu.br/cursos/wp-content/uploads/sites/2/2025/09/PPC-Engenharia-de-Computacao.pdf) ## Contatos #### Chapecó * **Coordenador**: Prof. Jean Carlos Hennrichs * **E-mail:** engcomputacao.cco@unoesc.edu.br * **Telefones:** (49) 3319-2609 e (49) 3319-2754 #### Joaçaba * **Coordenador:** Prof. Renato Gregolon Scortegagna * **E-mail:** engcomputacao.jba@unoesc.edu.br * **Telefones:** (49) 3551-2087 e (49) 3551-2238 ## Informações gerais * A Unoesc reserva-se o direito de não realizar o curso caso o número mínimo de vagas não seja preenchido. * A Unoesc reserva-se o direito de fazer alterações decorrentes de exigências legais ou de mudanças na política econômica do país. * O corpo docente do curso poderá sofrer alterações em virtude da disponibilidade ou qualquer outro fator que impeça o professor de ministrar componentes curriculares. ![](https://www.unoesc.edu.br/cursos/wp-content/uploads/sites/2/2025/04/Unoesc-1-250x300-1.png) ## MERCADO DE TRABALHO O profissional pode trabalhar em diversas áreas da computação, na área de sistemas computacionais, de equipamentos, programas e inter-relações. Pode atuar em empresas do setor de tecnologia da informação, indústrias de computadores, periféricos, sistemas embarcados, telecomunicações e áreas, como planejamento e gestão de projetos computacionais. O aluno formado também pode trabalhar com a automação de processos industriais e computacionais e em laboratórios de pesquisa científica e tecnológica. O profissional pode ter a própria empresa, trabalhar na iniciativa pública ou privada, ou, ainda, prestar consultoria. ![]() ## Como ingressar #### Seletivo Unoesc Nesta forma de ingresso, a classificação dos candidatos para Cursos de Graduação é feita a partir da análise da média do histórico escolar do ensino médio e também pela nota do ENEM através do boletim de desempenho. O processo seletivo não é válido para o Curso de Medicina. [Saiba mais](https://www.unoesc.edu.br/vestibular-seletivo/#seletivo-unoesc) #### Bolsas de Estudo Conheça quais são as bolsas disponíveis para os acadêmicos. [Saiba mais](https://www.unoesc.edu.br/atendimento-ao-estudante/bolsas-de-estudo/) #### Vestibular Acafe Entre as modalidades de ingresso na Unoesc, está o vestibular. O Curso de Medicina está dentro dessa modalidade, será necessário realizar a prova da Associação Catarinense das Fundações Educacionais (Acafe). [Saiba Mais](https://www.unoesc.edu.br/vestibular-seletivo/#vestibular-acafe) #### Pós-graduação - Especialização Ao preencher o requerimento de inscrição on-line, você deverá anexar os documentos solicitados e seguir os passos indicados no site. Documentos Necessários: ● Diploma de curso de graduação (frente e verso); se ainda não emitido, certidão de conclusão. ● CPF. ## Seletivo Unoesc Nesta forma de ingresso, a classificação dos candidatos para Cursos de Graduação é feita a partir da análise da média do histórico escolar do ensino médio e também pela nota do ENEM através do boletim de desempenho. O processo seletivo não é válido para o Curso de Medicina. [Saiba mais](https://www.unoesc.edu.br/vestibular-seletivo/#seletivo-unoesc) ## Bolsas de Estudo Conheça quais são as bolsas disponíveis para os acadêmicos. [Saiba mais](https://www.unoesc.edu.br/atendimento-ao-estudante/bolsas-de-estudo/) ## Vestibular Acafe Entre as modalidades de ingresso na Unoesc, está o vestibular. O Curso de Medicina está dentro dessa modalidade, será necessário realizar a prova da Associação Catarinense das Fundações Educacionais (Acafe). [Saiba Mais](https://www.unoesc.edu.br/vestibular-seletivo/#vestibular-acafe) ## Pós-graduação - Especialização Ao preencher o requerimento de inscrição on-line, você deverá anexar os documentos solicitados e seguir os passos indicados no site. Documentos Necessários: ● Diploma de curso de graduação (frente e verso); se ainda não emitido, certidão de conclusão. ● CPF.
+
+---
+## Conteúdo extraído de: https://www.unoesc.edu.br/sobre-a-unoesc/reitoria/
+
+[Página Inicial](https://www.unoesc.edu.br/) [Sobre a unoesc](https://www.unoesc.edu.br/sobre-a-unoesc/) Reitoria # Reitoria Órgão de direção executiva, a Reitoria tem a incumbência de planejar, coordenar e avaliar as políticas estabelecidas para o ensino, a pesquisa, a extensão e a administração da Instituição. É composta pelo Reitor, dirigente máximo da Universidade; pela Diretoria Executiva, responsável pela gestão das atividades administrativas; pela Pró-Reitoria de Ensino, responsável pela gestão das atividades-fim de ensino, pela Pró-Reitoria de Pesquisa, Pós-graduação, Extensão e Inovação; e por quatro Vice-Reitorias de Campus, sediadas em Chapecó, São Miguel do Oeste, Videira e Xanxerê. Também estão ligadas à Reitoria as Diretorias de Ensino e de Pesquisa, Pós-graduação, Extensão e Inovação, bem como as Coordenadorias Acadêmicas Gerais e Administrativas. ## Reitoria ![Reitor (200x235)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Reitor-200x235-1.png) ## Reitor da Universidade do Oeste de Santa Catarina #### **Ricardo Antonio De Marco** Doutor em Educação, área de concentração em Gestão do Ensino Superior, pela Universidade La Salle; Mestre em Administração, com ênfase em Estratégia e Desempenho Organizacional, pela Universidade do Sul de Santa Catarina (Unisul); graduado em Ciências Contábeis e Administração pela Universidade do Oeste de Santa Catarina (Unoesc). ![Diretor Executivo (200x235)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Diretor-Executivo-200x235-1.png) ## Diretor Executivo #### **Jarlei Sartori** Especialista em Contabilidade Gerencial, Auditoria e Perícia pela Universidade do Contestado (UNC) e Contabilidade Pública pela Universidade do Oeste de Santa Catarina (Unoesc); graduado em Ciências Contábeis pela Unoesc; contador. ## Pró-Reitorias ![Pro reitora de Ensino (200x290)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Pro-reitora-de-Ensino-200x290-1.png) ## Pró-reitora de Ensino #### **Jaciney Aparecida Danielli** Mestre em Administração pela Unoesc (2019), Especialista em Implantação de Software Livre pela UniSul (2008) e Graduada em Comunicação Social – Publicidade e Propaganda pela Unoesc (2004). Tem experiência nas áreas de Tecnologia da Informação e Comunicação, Análise de Dados, Gestão de Projetos, Marketing, Planejamento e Gestão Estratégica e Processos de Avaliação Externa de Instituições de Ensino Superior. Atualmente é docente e Pró-reitora de Ensino da Universidade do Oeste de Santa Catarina. ![Pro reitor de PPGEI (200x290)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Pro-reitor-de-PPGEI-200x290-1.png) ## ​Pró-reitor de Pesquisa, Pós-graduação, Extensão e Inovação #### **Kurt Schneider** Mestre em Administração pela Universidade do Oeste de Santa Catarina (Unoesc), especialista em Análise e Desenvolvimento de Sistemas pela Universidade Regional Integrada do Alto Uruguai e das Missões (URI/FW), em Formação de Professores e Tutores para Atuar no Ensino a Distância pela Universidade do Oeste de Santa Catarina (Unoesc) e em Banco de Dados Business Inteligence pela Unoesc; MBA em Gerenciamento de Projetos pela Fundação Getúlio Vargas (FGV/UNIC) e em Gestão de Tecnologia da Informação pela Faculdade de Informática e Administração Paulista (FIAP); graduado em Ciências da Informática pela URI; certificado Professional & Self Coaching (PSC) pelo Instituto Brasileiro de Coaching (IBC). ## Vice-Reitorias ![Carla (200x280)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Carla-200x280-1.png) ## Vice-Reitora da Unoesc Videira #### **Carla Fabiana Cazella** Doutora em Administração pela Universidade do Oeste de Santa Catarina (Unoesc); Mestra em Educação pela Unoesc; especialista em Gestão Escolar pela Unoesc; graduada em Administração pela Unoesc; administradora; capacitação em Ensino de Empreendedorismo e Negócios pela Clinton Center For Teaching And Learning; vinculada aos Grupos de Pesquisa Gestão Organizacional, Sustentabilidade e Empreendedorismo, Empreendedorismo e Empresas Familiares e Inovação. ![Genesio (200x280)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Genesio-200x280-1.png) ## Vice-Reitor da Unoesc Xanxerê #### **Genesio Téo** Mestre em Administração Universitária pela Universidade Federal de Santa Catarina (UFSC); especialista em Contabilidade Gerencial e Direito Tributário, ambas pela UFSC; graduado em Ciências Econômicas pelas Faculdades Reunidas de Administração, Ciências Contábeis e Ciências Econômicas (Facepal); atualmente está como presidente da Fundação Universidade do Oeste de Santa Catarina (Funoesc), mantenedora da Universidade do Oeste de Santa Catarina (Unoesc) e do Hospital Universitário Santa Terezinha (HUST). ![Carlos (200x280)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Carlos-200x280-1.png) ## Vice-Reitor da Unoesc Chapecó #### **Carlos Eduardo Carvalho** Pós-doutor em Administração, com ênfase em Estratégia, pela Universidade do Vale do Itajaí (Univali); Doutor em Administração e Turismo pela Univali; Mestre em Administração pela Fundação Universidade Regional de Blumenau (FURB); especialista em Processamento de Dados – Administração Informação pela Universidade do Contestado (UNC); MBA em Ações e Stock Picking pelo Instituto Brasileiro de Mercado de Capitais (IBMEC); graduado em Administração pela UNC. ![Vitor (200x290)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Vitor-200x290-1.png) ## Vice-Reitor da Unoesc São Miguel do Oeste #### **Vitor Carlos D’Agostini** Mestre em Direito pela Universidade Federal de Santa Catarina (UFSC); especialista em Direito Administrativo pela Universidade Regional de Blumenau (FURB); graduado em Direito pela FURB; advogado. ## Diretorias de Ensino ![Celso (200x310)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Celso-200x310-1.png) ## Diretor de Ensino da Unoesc Chapecó #### **Celso Paulo Costa** Doutor em Direito pela Universidade do Oeste de Santa Catarina (Unoesc), com pesquisa centrada na área do Direito e Segurança Social, sob a orientação do professor Dr. Carlos Luiz Strapazzon (2020-atual); Mestre em Filosofia pela Universidade Federal de Santa Maria (UFSM/2008); Mestre em Filosofia pela Universidade Federal de Santa Maria UFSM/2008); especialista em Formação de Professores e Tutores para Atuar no Ensino – Modalidade a Distância (2019-2020); MBA em Gestão Empresarial: Controladoria e Finanças pela Unoesc, campus de Chapecó (2014-2016); graduado em Licenciatura em Filosofia, com habilitação em Filosofia, Sociologia e Psicologia, pelo Centro Universitário Franciscano de Santa Maria (UNIFRA/2004); diretor Acadêmico na Unoesc Chapecó, conforme Portaria 001/VR-CCO/2013 (2013-atual); diretor geral da Arquiplanis Planejamento e Projetos Ltda (2016-atual); membro do Instituto Histórico e Geográfico Oeste Catarinense; professor nos cursos de Administração, Ciências Contábeis, Direito, Educação Física, Engenharia Civil, Odontologia e Psicologia, nas disciplinas de Filosofia Geral, Ética e Sociedade, Filosofia Jurídica, Direitos Humanos e Antropologia, na Unoesc (2009-atual); professor de Ensino Médio no Colégio Marista São Francisco de Chapecó, nas disciplinas de Filosofia e Sociologia (2009-atual) e de Filosofia no Cursinho Volare, no preparatório para Medicina; desenvolve estudos na área de Educação, Filosofia Contemporânea e Gestão Empresarial. ![Elisabeth (200x310)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Elisabeth-200x310-1.png) ## Diretora de Ensino da Unoesc Joaçaba #### Elisabeth Hafner Facin Diretora de Ensino da Universidade do Oeste de Santa Catarina. Com experiência profissional como professora com atuação no Ensino Médio (2001 – 2008) e na Educação Superior (desde 2006); na coordenação pedagógica, atuando como Coordenadora do Núcleo de Apoio Pedagógico da Unoesc de 2017 a 2024; e ainda, com experiência em Indústria de Alimentos (2001 – 2012) e também no tratamento de água de uso coletivo. A formação acadêmica contempla o mestrado em Ciência e Biotecnologia pela Universidade do Oeste de Santa Catarina (2015); especialização em Gestão do Meio Ambiente pela Unoesc (2003), graduação em Engenharia Química pela Universidade Federal do Paraná (2000) e em Licenciatura em Matemática pela Universidade do Oeste de Santa Catarina (2004). ![Adriano(200x310)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Adriano200x310.png) ## Diretor de Ensino da Unoesc Videira #### Adriano Schlösser Pós-doutor em Ciências do Movimento Humano pela Universidade do Estado de Santa Catarina (Udesc/2019); Doutor em Psicologia pela Udesc (2018), linha Cognição e Representações Sociais; Mestre em Psicologia pela Universidade Federal de Santa Catarina (UFSC/2014), área Processos Psicossociais, Saúde e Desenvolvimento Psicológico; graduado em Psicologia pela Universidade do Vale do Itajaí (Univali/2011), com menção honrosa de melhor aproveitamento do curso; coordenador do curso de Psicologia na Universidade do Oeste de Santa Catarina (Unoesc), campus de Videira; atualmente é professor e membro do Núcleo Docente Estruturante (NDE) do curso de Psicologia na Unoesc e membro do Conselho Universitário. ![Claudio (200x310)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Claudio-200x310-1.png) ## Diretor de Ensino da Unoesc Xanxerê #### Claudio Luiz Orço Doutor em Educação pela Universidade Federal de Santa Catarina (UFSC/2012); Mestre em História Regional pela Universidade de Passo Fundo (UPF/2008); Mestre em Educação pelo Instituto Pedagógico Latinoamericano y Caribeo de Cuba (IPLAC/2000), reconhecido pela UPF (2006); especialista em Gestão Universitária pela Universidade do Vale do Itajaí (Univali/2019), em Gestão Escolar pela Universidade do Estado de Santa Catarina (Udesc/2002) e em Teoria e Pesquisa Histórica no Brasil República pela Pontifícia Universidade Católica de São Paulo (PUC-SP/1994); graduado em Licenciatura Plena em Geografia pela Universidade do Oeste de Santa Catarina (Unoesc/1996); graduado em Licenciatura Plena em História pela Faculdade de Filosofia, Ciências e Letras de Palmas (FAFI/1989); atualmente é professor titular em tempo integral na Unoesc Xanxerê. ![Eduardo(200x310)](https://www.unoesc.edu.br/wp-content/uploads/2024/05/Eduardo200x310.png) ## Diretor de Ensino da Unoesc São Miguel do Oeste #### Eduardo Ottobelli Chielle Doutor (2015) e Mestre (2012) em Ciências Farmacêuticas, Análises Clínicas e Toxicológicas pela Universidade Federal de Santa Maria (UFSM); graduado em Farmácia e Bioquímica pela Universidade Regional Integrada (URI/2005); atualmente é diretor Acadêmico e professor na Universidade do Oeste de Santa Catarina (Unoesc), vinculado ao departamento de Ciências da Vida; tem participado como coordenador e colaborador em projetos de pesquisa aprovados em agências de fomento; participa como revisor científico em revistas como Applied Physiology, Nutrition and Metabolism, Brasilian Journal of Pathology and Laboratory Medicine e Revista Brasileira de Ciências da Saúde. ## Diretorias de Pesquisa, Pós-graduação, Extensão e Inovação ![Kurt Schneider (200x290)](https://www.unoesc.edu.br/wp-content/uploads/2024/06/Kurt-Schneider-200x290-1.png) ## Joaçaba #### **Kurt Schneider** Mestre em Administração pela Universidade do Oeste de Santa Catarina (Unoesc), especialista em Análise e Desenvolvimento de Sistemas pela Universidade Regional Integrada do Alto Uruguai e das Missões (URI/FW), em Formação de Professores e Tutores para Atuar no Ensino a Distância pela Universidade do Oeste de Santa Catarina (Unoesc) e em Banco de Dados Business Inteligence pela Unoesc; MBA em Gerenciamento de Projetos pela Fundação Getúlio Vargas (FGV/UNIC) e em Gestão de Tecnologia da Informação pela Faculdade de Informática e Administração Paulista (FIAP); graduado em Ciências da Informática pela URI; certificado Professional & Self Coaching (PSC) pelo Instituto Brasileiro de Coaching (IBC). ![Diego Beal (200x290)](https://www.unoesc.edu.br/wp-content/uploads/2024/06/Diego-Beal-200x290-1.png) ## Chapecó #### **Diego Beal** Doutor em Filosofia pela Universidade Federal de Santa Maria – UFSM; Mestre em Filosofia pela Pontifícia Universidade Católica do Rio Grande do Sul – PUCRS; Especialista em Gestão Universitária pela Universidade do Vale do Itajaí – UNIVALI; Especialista em Gerenciamento de Projetos pela Universidade do Oeste de Santa Catarina – UNOESC; Bacharel em Filosofia pela Universidade Regional Integrada do Alto Uruguai e das Missões – URI; Possui experiência docente nas áreas de Filosofia, Ética, Sociologia, Antropologia e Ciência Política. ![Marcieli Maccari (200x290)](https://www.unoesc.edu.br/wp-content/uploads/2024/06/Marcieli-Maccari-200x290-1.png) ## Xanxerê #### **Marcieli Maccari** Doutora em Agronomia pela Universidade Tecnológica Federal do Paraná (UTFPR/2016); Mestra em Zootecnia pela Universidade Federal de Santa Maria (UFSM/2006); graduada em Agronomia pela UTFPR (2003); desde 2006 é professora na Universidade do Oeste de Santa Catariana (Unoesc); de 2006 a 2014 foi coordenadora dos cursos de Agronomia e Zootecnia; atualmente é diretora de Pesquisa, Pós-graduação e Extensão na Unoesc; na pesquisa tem atuado, principalmente, nas áreas de integração lavoura pecuária, manejo de pastagens, qualidade de pastagens, nutrição de plantas, adubação de sistemas. ![Eliandra Mirlei Rossi (200x290)](https://www.unoesc.edu.br/wp-content/uploads/2024/06/Eliandra-Mirlei-Rossi-200x290-1.png) ## São Miguel do Oeste #### **Eliandra Mirlei Rossi** Doutora em Microbiologia Agrícola e do Ambiente pela Universidade Federal do Rio Grande do Sul (UFRGS/2015); Mestra em Microbiologia Agrícola e do Ambiente pela UFRGS (2010); especialista em Tecnologia e Controle de Qualidade de Alimentos pela Universidade de Passo Fundo (UPF/2006); graduada em Ciências Biológicas pela Universidade do Oeste de Santa Catarina (Unoesc/2004); atualmente é professora na Unoesc São Miguel do Oeste, nas áreas de microbiologia, biotecnologia e biossegurança; atua como bióloga, responsável técnica pelo Laboratório de Microbiologia, coordenadora dos Laboratórios da Área da Saúde, membro da Comissão Interna de Biossegurança (CIBio), membro do Núcleo Docente Estruturante (NDE) dos cursos de Farmácia e Odontologia. ![Carla Fabiana Cazella (200x290)](https://www.unoesc.edu.br/wp-content/uploads/2024/06/Carla-Fabiana-Cazella-200x290-1.png) ## Videira #### **Carla Fabiana Cazella** Doutora em Administração pela Universidade do Oeste de Santa Catarina (Unoesc); Mestra em Educação pela Unoesc; especialista em Gestão Escolar pela Unoesc; graduada em Administração pela Unoesc; administradora; capacitação em Ensino de Empreendedorismo e Negócios pela Clinton Center For Teaching And Learning; vinculada aos Grupos de Pesquisa Gestão Organizacional, Sustentabilidade e Empreendedorismo, Empreendedorismo e Empresas Familiares e Inovação. ## Coordenadores Acadêmicos Gerais ![Fabio 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Fabio-150px.png) ## Coordenador Geral de Inovação e Empreendedorismo #### **Fábio Lazzarotti** ![Nicole 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Nicole-150px.png) ## Coordenadora de Relações Internacionais #### **Nicole Patricia Stivaletta** ![Thiago 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Thiago-150px.png) ## Coordenador da Biblioteca #### **Tiago Diersmann** ![Tiago 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Tiago-150px.png) ## Coordenador da Editora #### **Tiago de Matia** ![Roseli 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Roseli-150px.png) ## Coordenadora da Unoesc Virtual #### **Roseli Rocha Moterle** ![Izabel 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Izabel-150px.png) ## Secretária Acadêmica Institucional #### **Izabel Cristina Coelho** ![bdd8ba6d aa3d 461a 899d 155ea610cc10](https://www.unoesc.edu.br/wp-content/uploads/2025/07/bdd8ba6d-aa3d-461a-899d-155ea610cc10.jpg) ## Coordenadora do Núcleo de Apoio Pedagógico #### Scheila Lockstein ## Coordenadores Administrativos Gerais ![Ligia Zulian](https://www.unoesc.edu.br/wp-content/uploads/2023/03/Ligia_Zulian.png) ## Coordenadora Geral de Recursos Humanos #### **Ligia Krühs Zulian** ![Silvia 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Silvia-150px.png) ## Coordenadora de Marketing #### **Silvia Spagnol Simi dos Santos** ![Jefferson 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Jefferson-150px.png) ## Coordenador de Relacionamento com Clientes e Vendas #### **Jefferson Alan Flemming** ![Mateus 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Mateus-150px.png) ## Coordenador de Tecnologia de Informação #### **Mateus Junior Lobor** ![Daniela 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Daniela-150px.png) ## Coordenadora Administrativa Unoesc Joaçaba e Financeira Operacional Institucional #### **Daniela Preschlak** ![Camila 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Camila-150px.png) ## Coordenadora de Planejamento e Avaliação Institucional e Comissão Própria de Avaliação #### **Camila Michelon** ## Coordenadora Administrativa Unoesc Campos Novos #### Juliane Brogliato Albuquerque ![Noemia](https://www.unoesc.edu.br/wp-content/uploads/2025/02/Noemia.png) ## Coordenadora Administrativa Unoesc Capinzal #### **Noemia Maria Bonamigo Pizzamiglio** ![Cleunice 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Cleunice-150px-1.png) ## Encarregada de Proteção de Dados da Unoesc e Unidades de Educação Básica mantidas da Funoesc e Auditora Interna Geral #### **Cleunice Fátima Frozza** ![Fernanda SAE](https://www.unoesc.edu.br/wp-content/uploads/2023/03/Fernanda_SAE.png) ## Coordenadora do SAE #### **Fernanda Poletto** ![Ana 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/08/Ana-150px.png) ## Controller #### **Ana Paula Gunther Guesser** ![Elis 01 (2)](https://www.unoesc.edu.br/wp-content/uploads/2025/08/Elis_01-2.jpg) ## Procuradora Jurídica Geral #### **Elisandra Riffel Cimadon** ![claudia 1](https://www.unoesc.edu.br/wp-content/uploads/2023/03/claudia_1.png) ## Procuradora Educacional Institucional #### **Claudia Elisa Grasel** ## Diretores de Colégio ![Leoberto 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Leoberto-150px.png) ## ​Diretor do Colégio SuperAtivo de Joaçaba e Capinzal #### **Leoberto Ricardo Grigollo** ![Rosangela 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Rosangela-150px.png) ## Diretora do Colégio Superação de Videira #### **Rosangela Maria Fontana** ![Nadia 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Nadia-150px.png) ## Diretora do Colégio Expressivo de Xanxerê e Xaxim #### **Nádia Cristina Bonai Rodrigues** ![Eduardo 150px](https://www.unoesc.edu.br/wp-content/uploads/2024/07/Eduardo-150px.png) ## Diretor do Colégio Unoesc de Educação Inovadora de São Miguel do Oeste #### **Eduardo Ottobelli Chielle**
+
+---
+## Conteúdo extraído de: https://www.unoesc.edu.br/atendimento-ao-estudante/bolsas-de-estudo/
+
+[Página Inicial](https://www.unoesc.edu.br/) [Atendimento ao Estudante](https://www.unoesc.edu.br/atendimento-ao-estudante/) Bolsas de Estudo # Bolsas de Estudo ### **PROGRAMA UNIVERSIDADE GRATUITA** **O que é?** O Universidade Gratuita é um programa de assistência financeira do Estado destinada ao fomento da educação superior, em nível de graduação, prestado pelas fundações e autarquias municipais universitárias e por entidades sem fins lucrativos de assistência social que cumprem os requisitos legais e regulamentares, denominadas instituições universitárias. **A quem se destina?** Quem pode ser beneficiado: * Estudantes regularmente matriculados na Unoesc; * Ser natural do Estado de SC ou residir nela há mais de 5 (cinco) anos, contados retroativamente a partir da data de ingresso nas instituições universitárias; * Ser a primeira graduação cursada com recursos públicos estaduais, desconsiderando para esse fim os cursos de licenciatura curta; * Preferencialmente, ser oriundo do ensino médio ou equivalente de escolas das redes públicas de ensino catarinenses ou de instituições privadas, com bolsa integral ou parcial; e * Possuir renda familiar per capita inferior a 8 salários mínimos para cursos de medicina, ou para demais cursos, possuir renda familiar per capita inferior a 4 salários mínimos. 3. Como ocorre a seleção dos candidatos? O candidato é selecionado pelo seu Índice de Carência (IC) mediante as informações socioeconômicas prestadas no formulário do Programa Universidade Gratuita e de acordo com o edital. **Como ocorre a seleção dos candidatos?** O candidato é selecionado pelo seu Índice de Carência (IC) mediante as informações socioeconômicas prestadas no formulário do Programa Universidade Gratuita e de acordo com o edital. **Quais as obrigações do bolsista pelo Programa Universidade Gratuita?** Conforme estabelecido pelo Programa Universidade Gratuita, o bolsista deve: * Assinar mensalmente o recibo de Assistência Financeira Estudantil; * Prestar serviço à população do Estado, sendo de 20 (vinte) horas por mês de benefício recebido * Ter aproveitamento acadêmico de 75% nas disciplinas cursadas no semestre anterior. **Mais informações** [DOCUMENTOS E DECLARAÇÕES PROGRAMA UNIVERSIDADE GRATUITA 2024.2](https://www.unoesc.edu.br/wp-content/uploads/2024/10/Novas-inscricoes-UG-20242-2a-Etapa.pdf) **Beneficiados** * [Relação Nominal de Beneficiários do Programa Universidade Gratuita – 2025-2](https://www.unoesc.edu.br/wp-content/uploads/2025/08/Homologacao-Relacao-Nominal-de-Beneficiados-UG-2025-2-v2.pdf "Relação Nominal de Beneficiários do Programa Universidade Gratuita – 2025-2") * [Relação do Número de Beneficiados-Número de Bolsas Ofertadas no Programa Universidade Gratuita 2025-2](https://www.unoesc.edu.br/wp-content/uploads/2025/08/Homologacao-No-de-Bolsistas-UG-2025-2-v2.pdf) ### **PROGRAMA UNIVERSIDADE PARA TODOS** **(ProUni)** **O que é?** O Programa Universidade para Todos (Prouni), do Ministério da Educação, oferece bolsas de estudos, integrais e parciais (50%), em instituições particulares de educação superior, em cursos de graduação e sequenciais de formação específica, a estudantes brasileiros sem diploma de nível superior. **A quem se destina?** Aos candidatos sem diploma de curso superior que tenham participado do último Exame Nacional do Ensino Médio (ENEM) e obtido no mínimo 450 pontos na média das notas e nota na redação que não seja zero. * Para concorrer a bolsas integrais, o candidato deve ter renda familiar bruta mensal de até um salário mínimo e meio por pessoa. * Para as bolsas parciais (50%), a renda familiar bruta mensal deve ser de até três salários mínimos por pessoa. Além disso, o candidato deve satisfazer a pelo menos uma das condições a seguir: * Ter cursado o ensino médio completo em escola da rede pública; * Ter cursado o ensino médio completo em escola da rede particular, na condição de bolsista integral da própria escola; * Ter cursado o ensino médio parcialmente em escola da rede pública e parcialmente em escola da rede particular, na condição de bolsista integral da própria escola privada; * Tenha cursado o ensino médio parcialmente em escola da rede pública e parcialmente em escola da rede particular, na condição de bolsista parcial da própria escola ou sem a condição de bolsista * Tenha cursado o ensino médio integralmente em instituição da rede particular. * Ser pessoa com deficiência; * Ser professor da rede pública de ensino, no efetivo exercício do magistério da educação básica, integrante de quadro de pessoal permanente de instituição pública e concorrer a bolsas exclusivamente nos cursos de licenciatura. Nesses casos, não há requisitos de renda. **Como ocorre a inscrição e seleção dos candidatos?** A inscrição, gratuita, é feita exclusivamente pela internet, no Portal do Prouni. Ao efetuar a inscrição, o candidato escolhe, em ordem de preferência, até duas opções de instituição, curso e turno dentre as bolsas disponíveis, conforme seu perfil. Encerrado o prazo de inscrição, o sistema do Prouni classifica os estudantes de acordo com as opções e as notas obtidas no ENEM. **Fui pré-classificado pelo ProUni, o que devo fazer?** O candidato pré-selecionado deverá entregar na IES a documentação comprobatória das informações prestadas em sua inscrição. O envio da documentação pode ser realizada por comparecimento na Instituição de Ensino ou encaminhada por e-mail. Confira a lista de documentos ProUni/Unoesc. Lista de documentos: [clique aqui.](https://www.unoesc.edu.br/wp-content/uploads/2024/01/DOCUMENTOS-ENTREVISTA-PROUNI-2024-1.pdf) **O que é a COLAP e quem participa?** A Comissão Local de Acompanhamento e Controle Social do ProUni tem a função de acompanhar, averiguar e fiscalizar a implementação local do Programa Universidade para Todos (ProUni). Membros das COLAP da Unoesc (Homologação Edital 65/2018 Eleição COLAP Unoesc) ### DESCONTOS **Para fazer jus aos benefícios desta Resolução, deverão ser observados os seguintes requisitos** * os descontos deverão ser requeridos, semestralmente, mediante preenchimento de formulário eletrônico, disponível no Portal de Ensino (Espaço Acadêmico/Serviços On-line); * os descontos serão concedidos no boleto do mês subsequente à solicitação; * os descontos para cursos de graduação não se aplicam as disciplinas em Regime Especial e deverão ser requeridos semestralmente; * os descontos concedidos nas mensalidades não são cumulativos a outros descontos ou benefícios concedidos pela instituição, bem como a outros benefícios concedidos por órgãos governamentais e de fomento, exceto o crédito educativo institucional; * os descontos são condicionados à pontualidade de pagamento. **Cursos de Educação Superior** **a) Cursos de Graduação ofertados em qualquer modalidade:** * para estudantes cursando dupla graduação na Unoesc: desconto de 10% (dez por cento) em cada curso; * para estudantes graduados na Unoesc cursando o segundo curso de graduação: desconto de 10% (dez por cento); * para estudantes graduados na Unoesc cursando o terceiro curso de graduação: desconto de 20% (vinte por cento); * para estudantes idosos, de acordo com o art. 1o da Lei 10.741/03, cursando curso de graduação: desconto de 20% (vinte por cento); * para estudantes que cursaram e concluíram todo o ensino médio em Colégios mantidos pela Unoesc, desconto de 20% (vinte por cento), para cursos de graduação, exceto Medicina e Odontologia. **b) Cursos de Pós-Graduação Lato Sensu;** * para diplomados pela Unoesc: desconto de 10% (dez por cento) para primeiro curso de Pós-Graduação; * para diplomados pela Unoesc: desconto de 15% (quinze por cento) para segundo curso de Pós-Graduação; * para diplomados pela Unoesc: desconto de 20% (vinte por cento) para terceiro curso de Pós-Graduação. **c) Cursos de Pós-Graduação Stricto Sensu – Mestrado e Doutorado;** * desconto de 30% (trinta por cento) nas mensalidades, inclusive na matrícula, para todos os estudantes. **Desconto Família** * para dois ou mais membros de um mesmo grupo familiar (irmãos, pais, filhos, cônjuges) que realizarem cursos de graduação na Unoesc, concomitantemente, haverá desconto mensal de 10% (dez por cento) sobre o valor da mensalidade, a cada um dos estudantes devidamente matriculados; * para dois ou mais membros de um mesmo grupo familiar (irmãos, pais, filhos) que estiverem matriculados em cursos de graduação na Unoesc e nas Unidades de Educação Básica mantidas pela Funoesc, concomitantemente, haverá desconto mensal de 10% (dez por cento) sobre o valor da mensalidade, a cada um dos estudantes devidamente matriculados. **Mais informações** [RESOLUÇÃO Nº45/CONS.ADM/FUNOESC/2022](https://www.unoesc.edu.br/blog/publicacoes-legais/resolucao-no45-cons-adm-funoesc-2022/)## Fonte: https://www.unoesc.edu.br/cursos/wp-content/uploads/sites/2/2025/09/PPC-Engenharia-de-Computacao.pdf
 
 UNIVERSIDADE DO OESTE DE SANTA CATARINA - UNOESC
 PROJETO PEDAGÓGICO DO CURSO ENGENHARIA DE COMPUTAÇÃO
@@ -1500,5 +1510,595 @@ estatais. Santa Cruz do Sul, RS: Edunisc, 2009.
 UNIVERSIDADE DO OESTE DE SANTA CATARINA - Unoesc. Plano de
 desenvolvimento Institucional da Unoesc 2023-2027. Joaçaba: Editora Unoesc,
 2023.
+
+---
+
+
+---
+## Ementário Completo
+
+## 📚 Ementário das Disciplinas
+
+
+### 📘 Algoritmos e Lógica de Programação
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 1
+
+**Ementário:**  
+Fundamentos de Algoritmos: Desenvolvimento de Algoritmos e Aplicações em Linguagem de Programação; Conceituação e Utilização de Variáveis, Tipos de Dados e Expressões; Operadores Aritméticos, Relacionais e Lógicos; Estruturas de Controle de Fluxo: Sequencial; Condicional; Repetição. Variáveis Indexadas: Unidimensionais; Bidimensionais. Modularização: Funções; Testes de Mesa.
+
+---
+
+### 📘 Engenharia: Evolução, Impactos e Oportunidades
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 1
+
+**Ementário:**  
+Construção e Evolução da Ciência e da Tecnologia: Aspectos Socioeconômicos; Culturais; Políticos; Ambientais. Atuação Profissional: Perfil; Mercado de Trabalho; Tecnologias e Inovações. Projeto de Vida: Autoconhecimento Pessoal e Profissional;<Br /> Oportunidades, Metas, Plano de Ações e Aplicações. Legislação e Ética Profissional: Conselhos de Classe; Responsabilidade/Função Técnica (Atribuições; Acervo Técnico; Remuneração); Atuação; Fiscalização.
+
+---
+
+### 📘 Matemática e Tecnologia I
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 1
+
+**Ementário:**  
+Álgebra Básica: Frações; Razões; Proporções (Regra de Três). Álgebra Linear: Matrizes; Determinantes; Sistemas de Equações Lineares. Trigonometria: Triângulos Retângulos e Gerais. Álgebra Vetorial: Vetores em Coordenadas Retangulares e Polares; Produto Escalar e Vetorial. Geometria: Plana (Perímetro e Área); Espacial (Área Superficial e Volume) e Analítica (Retas e Planos).
+
+---
+
+### 📘 Química dos Materiais
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 1
+
+**Ementário:**  
+Estrutura Atômica: Propriedades dos Elementos. Ligações Químicas e Funções Inorgânicas: Covalentes (Forças Intermoleculares); Iônicas; Metálicas. Soluções: Classificação e Concentração. Reações Químicas: Classificação e Estequiometria. Classificação e Propriedades dos Materiais: Metálicos; Poliméricos; Cerâmicos; Compósitos. Eletroquímica: Pilhas, Corrosão e Proteção de Metais.
+
+---
+
+### 📘 Ética, Cultura e Contemporaneidade
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 1
+
+**Ementário:**  
+Homem e Sociedade: Cultura, Identidade, Diversidade e Desigualdade Social, Responsabilidade Socioambiental, Globalização, Políticas Públicas Estados e Sistemas. Relações Sociais: Questões Étnico-Raciais, Formação Antropológica do Brasil (Origem do Povo Brasileiro, Ensino de História e Cultura Afro-Brasileira, Africana e Indígena), Relações de Poder, Trabalho e Gênero. Ética e Moral: Consciência Moral, Fundamentos Filosóficos, Ética e Direitos Humanos. Universidade Comunitária: Características, Valores, Atribuições, Missão e Desenvolvimento Regional.
+
+---
+
+### 📘 Administração e Economia para Engenharia
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 2
+
+**Ementário:**  
+Contextos Organizacionais: Evolução Histórica, Estruturas; Funções do Administrador. Teorias da Administração: Clássica; Humanística; Neoclássica; Estruturalista; Comportamental; Sistêmica e Contingencial. Princípios Econômicos: Escassez e Necessidades. Microeconomia: Lei da Oferta e da Demanda; Elasticidades; Equilíbrio de Mercado e Análise Gráfica; Estrutura de Mercado; Custos Fixos e Variáveis; Produtividade Média e Marginal. Macroeconomia: Agregados Econômicos; Funções da Moeda; Política Monetária. Matemática Financeira: Juros Simples e Compostos; Taxas; Equivalência de Capitais; Sistemas de Amortização; Avaliação de Investimentos.
+
+---
+
+### 📘 Arquitetura de Computadores
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 2
+
+**Ementário:**  
+Conceitos Básicos de Computação: Computação como Ciência Aplicada. Aritmética Computacional: Aritmética Binária; Representação de Bases Numéricas; Portas Lógicas. Arquitetura de Computadores: Arquitetura Risc e Cisc; Registradores; Barramentos; Pipelines; Cache; Arquiteturas de Memórias; Dispositivos de Entrada e Saída (E/S); Portas de Comunicação; Organização de Computadores.
+
+---
+
+### 📘 Estrutura de Dados
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 2
+
+**Ementário:**  
+Estruturas de Dados: Funções com Passagem de Parâmetro por Valor e Referência. Tipos Abstratos de Dados; Dados Estruturados; Representação e Manipulação de Pilhas, Listas, Árvores; Aplicação de Estruturas de Dados. Métodos de Ordenação: Ordenação em Memória; Algoritmos de Ordenação. Recursividade: Implementação Recursiva Versus Iterativa.
+
+---
+
+### 📘 Legislação e Ética Profissional em Informática
+
+- Créditos: 2
+- Carga horária: 36h
+- Fase: 2
+
+**Ementário:**  
+Ética em Computação: Ética Profissional; Códigos de Ética; Regulamentação da Profissão. Legislação de Proteção: Programa de Computador (Garantias de Usuários; Contratos de Licença de Uso; Comercialização e Transferência de Tecnologia; Infrações e Penalidades); Direito Autoral e Registro. Proteção de Dados: Marco Civil da Internet; Lei Geral de Proteção de Dados (Lgpd); Tratamento de Dados (Coleta e Produção, Acesso, Armazenamento, Divulgação).
+
+---
+
+### 📘 Matemática e Tecnologia II
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 2
+
+**Ementário:**  
+Funções: Polinomiais: Exponenciais; Logarítmicas; Trigonométricas. Limites: Propriedades e Cálculo Gráfico de Limites Finitos e Infinitos; Continuidade. Derivadas: Propriedades; Regras de Derivação; Derivação Numérica; Taxas de Variação; Análise de Funções.
+
+---
+
+### 📘 Prática Profissional e Inserção Comunitária I *****
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 2
+
+**Ementário:**  
+Elaboração e Realização de Pesquisas e Projetos de Cunho Extensionista na Área de Formação. Seminário de Socialização.<Br /> &#160;
+
+---
+
+### 📘 Eletricidade Aplicada
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 3
+
+**Ementário:**  
+Eletricidade: Tensão; Corrente; Potência; Resistência; Indutância; Capacitância; Sinais Alternados e Contínuos. Medições de Grandezas Elétricas: Instrumentos, Erros e Incertezas de Medição. Energia Elétrica: Geração, Transmissão e Distribuição. Máquinas Elétricas: Transformadores; Motores de Indução.
+
+---
+
+### 📘 Estatística
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 3
+
+**Ementário:**  
+Estatística Descritiva: Organização de Dados (Tabelas e Gráficos); Medidas de Tendência Central; Medidas de Dispersão; Técnica de Amostragem. Probabilidade: Noções de Probabilidade; Distribuições de Probabilidade Discretas e Contínuas. Teste de Hipóteses: Unilaterais e Bilaterais; Análise de Variância (Anova); Teste de Médias. Regressão Linear: Regressão e Correlação.
+
+---
+
+### 📘 Linguagem de Descrição de Hardware
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 3
+
+**Ementário:**  
+Circuitos Lógicos Combinacionais: Representação de Circuitos Lógicos; Álgebra de Boole; Simplificação de Expressões Lógicas.<Br /> Dispositivos de Lógica Programável: Splds e Cplds; Fpgas; Linguagem de Descrição de Hardware. Circuitos Lógicos Sequenciais: Flip-Flops; Contadores; Máquinas de Estados; Elementos de Memórias; Circuitos Múltiplos em Hdl. Projetos de Sistemas Digitais em Hdl.
+
+---
+
+### 📘 Matemática e Tecnologia III
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 3
+
+**Ementário:**  
+Integrais: Definidas; Teorema Fundamental do Cálculo; Indefinidas; Técnicas de Integração; Integração Numérica. Equações Diferenciais (Métodos Analíticos, Numéricos e Gráficos): Ordinárias de Primeira e Segunda Ordem; Transformada de Laplace.
+
+---
+
+### 📘 Modelagem e Programação de Sistemas Computacionais
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 3
+
+**Ementário:**  
+Introdução à Programação Orientada à Objetos: Diagrama de Classes da Uml; Classes, Métodos e Objetos; Elementos da Programação Orientada à Objetos: Construção de Objetos; Encapsulamento e Sobrecarga; Sobreposição de Métodos; Construtores e Destrutores; Herança; Polimorfismo e Ligação Dinâmica; Introdução a Uma Linguagem Orientada a Objetos: Sintaxe, Operadores e Estruturas de Controle; Serialização de Objetos; Tratamento de Exceções; Programação com Threads; Reuso de Bibliotecas de Classes.
+
+---
+
+### 📘 Prática Profissional e Inserção Comunitária II *****
+
+- Créditos: 2
+- Carga horária: 36h
+- Fase: 3
+
+**Ementário:**  
+Elaboração e Realização de Pesquisas e Projetos de Cunho Extensionista na Área de Formação. Seminário de Socialização.<Br /> &#160;
+
+---
+
+### 📘 Circuitos Eletroeletrônicos
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 4
+
+**Ementário:**  
+Circuitos Resistivos: Lei de Ohm; Lei de Kirchoff; Medição de Grandezas Elétricas. Análise em Regime Permanente: Métodos das Malhas e dos Nós; Linearidade e Superposição; Transformação de Fontes; Teoremas de Thévenin e Norton; Teorema da Máxima Transferência de Potência. Amplificadores Operacionais: Modelo de Ampops; Realimentação Negativa; Aplicações Lineares.
+
+---
+
+### 📘 Compiladores e Autômatos
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 4
+
+**Ementário:**  
+Tradutores: Organização e Estrutura de Compiladores; Interpretadores e Montadores. Gramática Formal: Reconhecedores e Autômatos; Análise Léxica, Semântica e Sintática. Geração e Otimização: Princípios e Fundamentos de Geração e Otimização de Código; Tratamento e Recuperação de Erros; Ambientes de Interpretação e Execução.
+
+---
+
+### 📘 Microprocessadores
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 4
+
+**Ementário:**  
+Arquiteturas de Microcontroladores: Registradores; Barramentos; Unidade Lógica e Aritmética; Formato de Instruções; Conjunto de Instruções; Mapeamento de Memória. Linguagens de Programação: Linguagem Assembly; Linguagem C; Ambientes de Desenvolvimento; Requisitos para a Codificação e Otimização de Firmwares. Periféricos de Microcontroladores: Memórias; Entradas e Saídas Digitais; Temporizadores e Contadores; Conversor Analógico/Digital; Conversor Digital/Analógico; Interfaces de Comunicação Serial; Modulação por Largura de Pulso; Programação e Configuração de Periféricos para o Desenvolvimento de Sistemas Microcontrolados.
+
+---
+
+### 📘 Otimização Aplicada
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 4
+
+**Ementário:**  
+Teoria dos Grafos: Contextualização; Rotulação e Representação; Tipos de Grafos; Vizinhança; Graus; Conexidade. Problemas em Teoria dos Grafos: Problemas de Caminhos; Problemas de Interligação; Subconjuntos Especiais; Problemas de Coloração; Fluxos em Grafos; Ciclos e Aplicações. Pesquisa Operacional: Modelagem; Problemas de Otimização e Combinatória.
+
+---
+
+### 📘 Prática Profissional e Inserção Comunitária III *****
+
+- Créditos: 2
+- Carga horária: 36h
+- Fase: 4
+
+**Ementário:**  
+Elaboração e Realização de Pesquisas e Projetos de Cunho Extensionista na Área de Formação. Seminário de Socialização.<Br /> &#160;
+
+---
+
+### 📘 Sistemas Operacionais
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 4
+
+**Ementário:**  
+Sistemas Operacionais: Histórico e Tipos de Sistemas Operacionais; Estrutura dos Sistemas Operacionais; Gerência de Memória; Gerência de Entrada e Saída; Organização de Sistemas de Arquivos. Processos e Programação Concorrente: Conceitos de Processos; Gerência do Processador; Escalonamento Entre Processos e Introdução à Programação Concorrente. Estudos de Caso: Sistemas Operacionais Existentes; Experimentação e Testes.
+
+---
+
+### 📘 Análise e Processamento de Sinais
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 5
+
+**Ementário:**  
+Sinais e Sistemas: Contínuos e Discretos no Tempo. Análise de Fourier: Transformada de Fourier Contínua e Discreta. Digitalização de Sinais: Teorema de Amostragem; Conversão A/D; Quantização e Reconstrução de Sinais. Análise de Sinais e Sistemas Discretos: Ferramentas; Processamento de Sinais Discretos. Filtros Digitais: Estrutura, Projeto e Aspectos de Implementação.
+
+---
+
+### 📘 Banco de Dados
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 5
+
+**Ementário:**  
+<B>Introdução à Banco de Dados:</B>&#160; Fundamentos e Arquitetura Geral de Um Sgbd. <B>Projeto de Banco de Dados:</B> Conceitos de Banco de Dados Relacional; Modelagem Conceitual (Er); Projeto de Banco de Dados Relacional. <B>Criação e Manipulação de Banco de Dados:</B> Comandos de Definição de Banco de Dados e de Manipulação de Dados em Sql; Projeto Físico de Banco de Dados Relacional.
+
+---
+
+### 📘 Engenharia de Software
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 5
+
+**Ementário:**  
+Engenharia de Software: Visão Geral e Princípios da Análise e Projeto de Sistemas; Ciclos de Vida; Áreas da Engenharia de Software. Projeto de Software: Engenharia de Requisitos; Teste de Software. Gerência e Gestão de Projetos: Gerência da Configuração; Documentação de Projetos e Gerência de Riscos.
+
+---
+
+### 📘 Interação Humano Computador
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 5
+
+**Ementário:**  
+Fundamentos de Ihc: Usuário;&#160; Affordances, Interação, Interface, Usabilidade e Ergonomia; Interação do Usuário (Ui), Arquitetura da Informação (Ai) e Experiência do Usuário (Ux). Psicologia Cognitiva: Modelos Mentais, Percepção e Atenção; Semiótica. Design:&#160; Padrões de Projeto de Interface, de Interação e de Cor; Paradigmas de Interfaces. Engenharia de Usabilidade: Critérios Ergonômicos; Análise, Concepção e Avaliação de Interfaces.
+
+---
+
+### 📘 Prática Profissional e Inserção Comunitária IV *****
+
+- Créditos: 2
+- Carga horária: 36h
+- Fase: 5
+
+**Ementário:**  
+Elaboração e Realização de Pesquisas e Projetos de Cunho Extensionista na Área de Formação. Seminário de Socialização.<Br /> &#160;
+
+---
+
+### 📘 Redes de Computadores e Sistemas Distribuídos
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 5
+
+**Ementário:**  
+Redes de Computadores: Estruturas, Topologias e Meios de Transmissão.&#160; Modelo de Referência Osi e Tcp/Ip: Camadas, Protocolos e Serviços. Sistemas Distribuídos: Tipo Nuvem, Cluster e Grid; Arquitetura de Duas e Três Camadas. Modelos de Computação Distribuída e Paralela: Microserviços, Middleware e Servlets.
+
+---
+
+### 📘 Desenvolvimento de Aplicações Computacionais
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 6
+
+**Ementário:**  
+Projeto de Sistemas Computacionais: Arquiteturas de Hardware e Software; Sistemas Microcontrolados: Fontes de Alimentação; Conversão Analógica/Digital; Interfaces de Comunicação para Sensores; Interfaces de Comunicação de Dados. Aplicações com Instrumentação: Amplificação de Sinais; Condicionamento de Sinais; Processamento Analógico e Digital de Sinais. Integração Software-Hardware: Implementação de Software para Recepção, Armazenamento e Processamento de Dados.
+
+---
+
+### 📘 Eletivo I
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 6
+
+**Ementário:**  
+Componente Curricular de Interesse do Acadêmico, Ofertado no Semestre Vigente, em Qualquer Curso de Graduação da Ies, Conforme Regulamentação Vigente.<Br /> &#160;
+
+---
+
+### 📘 Eletrônica Analógica
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 6
+
+**Ementário:**  
+Filtros Analógicos: Passivos 1ª Ordem; Ativo de 1ª e 2ª Ordem; Ativo de Ordem Superiores. Componentes Eletrônicos Semicondutores: Diodos; Fontes Reguladas; Transistores de Sinal; Optoacopladores; Transistores de Potência. Conversores Chaveados: Fontes Chaveadas; Buck; Boost.
+
+---
+
+### 📘 Empreendedorismo e Inovação
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 6
+
+**Ementário:**  
+Tipologias de Empreendedorismo: Tipos, Perfil e Características do Empreendedorismo, Escolas do Pensamento Empreendedor. Ecossistema de Inovação: Tipos de Inovação; Atores<Br /> Do Ecossistema; Contextos e Demandas Globais e Regionais e os Ods; Análises de Mercado: Análise de Cenários e Tendências; Modelos de Negócio; Metodologias e Ferramentas para Empreender. Desenvolvimento de Negócio: Planos de Negócio; Desenvolvimento de Soluções e Negócios Inovadores.<Br /> &#160;
+
+---
+
+### 📘 Inteligência Artificial e Sistemas Inteligentes
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 6
+
+**Ementário:**  
+Introdução à Inteligência Artificial: Objetivos, Histórico da Área; Paradigmas da Inteligência Artificial Clássica: Simbolismo, Conexionismo, Evolucionismo. Representação do Conhecimento e Abordagens Práticas: Reconhecimento de Padrões, Sistemas Especialistas, Agentes Inteligentes, Lógica Difusa e Sistemas Híbridos. Ia Generativa: Aprendizado de Máquina e Modelos de Linguagem de Grande Escala (Llm).
+
+---
+
+### 📘 Prática Profissional e Inserção Comunitária V *****
+
+- Créditos: 3
+- Carga horária: 54h
+- Fase: 6
+
+**Ementário:**  
+Elaboração e Realização de Pesquisas e Projetos de Cunho Extensionista na Área de Formação. Seminário de Socialização.<Br /> &#160;
+
+---
+
+### 📘 Desenvolvimento Web e Aplicativos
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 7
+
+**Ementário:**  
+Introdução a Web: o Protocolo Http, Arquiteturas de Software para Web (Rest, Graphql), Servidores Web, Banco de Dados na Web, Linguagens e Frameworks. Lado do Servidor (Server-Side): Padrões Web Client-Side (Html, Css, Javascript), Javascript Runtime Environment (Node.Js, Npm), Frameworks. Lado do Cliente (Client-Side): Segurança (Autenticação, Autorização, Https, Jwt). Ferramentas de Desenvolvimento: Sistemas de Controle de Versão (Git, Github, Gitlab), Conteinerização (Docker).
+
+---
+
+### 📘 Eletivo II
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 7
+
+**Ementário:**  
+Componente Curricular de Interesse do Acadêmico, Ofertado no Semestre Vigente, em Qualquer Curso de Graduação da Ies, Conforme Regulamentação Vigente.<Br /> &#160;
+
+---
+
+### 📘 Prática Profissional e Inserção Comunitária VI *****
+
+- Créditos: 3
+- Carga horária: 54h
+- Fase: 7
+
+**Ementário:**  
+Elaboração e Realização de Pesquisas e Projetos de Cunho Extensionista na Área de Formação. Seminário de Socialização.<Br /> &#160;
+
+---
+
+### 📘 Sistemas Embarcados
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 7
+
+**Ementário:**  
+Introdução aos Sistemas Embarcados: Histórico, Aplicações e Finalidade de Sistemas Embarcados; Requisitos e Restrições de Projeto; Metodologias de Projeto; Tecnologias Atuais. Componentes de Um Sistema Embarcado: Microcontroladores; Sensores e Atuadores; Interfaces de Comunicação com e sem Fio. Programação de Sistemas Embarcados: Ferramentas de Desenvolvimento; Projeto de Firmware para Sistemas Embarcados; Otimização de Sistemas Embarcados. Sistemas Operacionais para Sistemas Embarcados: Tipos de Sistemas Operacionais Embarcados; Sistemas Operacionais de Tempo Real (Rtos); Programação Concorrente e Escalonamento. Dispositivos Lógicos Programáveis: Linguagens de Descrição de Hardware; Projeto e Síntese de Hardware; Validação de Sistemas Mistos Hardware-Software.
+
+---
+
+### 📘 Trabalho de Conclusão de Curso I
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 7
+
+**Ementário:**  
+Elaboração e Apresentação de Trabalho Científico com Síntese e Integração dos Conhecimentos Associados ao Perfil do Egresso, Seguindo Orientações do Manual de Procedimentos do Trabalho de Conclusão de Curso de Engenharia de Computação.
+
+---
+
+### 📘 Visão Computacional
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 7
+
+**Ementário:**  
+Fundamentos da Imagem Digital: Elementos da Percepção Visual; Luz; Sensores; Aquisição de Imagens; Amostragem e Quantização; Representação de Imagens Digitais. Processamento de Imagem: Manipulação de Pixels; Histograma; Operações Morfológicas; Filtragem de Imagens; Detecção de Bordas; Detecção de Pontos de Interesse. Processamento de Imagem com Machine Learning.
+
+---
+
+### 📘 Atividade Curricular Complementar
+
+- Créditos: 0
+- Carga horária: 80h
+- Fase: 8
+
+**Ementário:**  
+Componente de Flexibilização Curricular, de Caráter Técnico e Científico-Cultural, Envolvem Atividades de Ensino, Pesquisa e Extensão.<Br /> &#160;
+
+---
+
+### 📘 Comunicação de Dados e Aplicações Distribuídas
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 8
+
+**Ementário:**  
+Sistemas de Comunicação de Dados: Conceitos; Meios de Transmissão de Dados com Fio e sem Fio; Camadas Física e de Enlace; Protocolos; Tecnologias para Transmissão de Dados sem Fio; Detecção e Correção de Erros. Sistemas Distribuídos: Introdução; Arquiteturas; Processos; Comunicação; Nomeação; Sincronização; Consistência e Replicação; Tolerância a Falhas; Segurança. Internet das Coisas (Iot): Topologias; Protocolos; Dispositivos; Sensores e Atuadores; Tecnologias para Comunicação de Dados; Cloud, Fog e Edge Computing. Estudos de Caso de Sistemas Distribuídos: Computação em Grid/Cluster; Web Services; Sockets e Web Sockets; Aplicações Iot.
+
+---
+
+### 📘 Cyber Security
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 8
+
+**Ementário:**  
+Fundamentos de Segurança Computacional: Princípios e Conceitos de Segurança Computacional; a Internet como Meio. Criptografia: Cifras de Transposição; Cifras de Substituição; Criptografia Simétrica; Criptografia Assimétrica; Cifras de Fluxo; Cifras de Bloco; Funções de Hash. Autenticação e Autorização: Fluxos de Autenticação; Navigation Guards; Authentication Guards; Hash de Passwords; Jwt - Json Web Token; Oauth 2.0; Web Storage Apis; Interceptors e Middlewares; Autorização Através de Gates; Policies e Token Scopes.
+
+---
+
+### 📘 Gestão da Tecnologia da Informação
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 8
+
+**Ementário:**  
+Planejamento Estratégico de Sistemas de Informação: Alinhamento Estratégico, Governança, Ferramentas e Modelos de Melhores Práticas, Aquisição e Implementação de Recursos, Entrega e Suporte de Soluções, Monitoração e Avaliação, Técnicas de Estimativas, Análise e Gerenciamento de Risco. Gerência de Projetos: Técnicas e Ferramentas, Relacionamento com Usuários e Fornecedores. Ti Sustentável.
+
+---
+
+### 📘 Prática Profissional e Inserção Comunitária VII *****
+
+- Créditos: 3
+- Carga horária: 54h
+- Fase: 8
+
+**Ementário:**  
+Elaboração e Realização de Pesquisas e Projetos de Cunho Extensionista na Área de Formação. Seminário de Socialização.<Br /> &#160;
+
+---
+
+### 📘 Sistemas de Controle e Automação Industrial
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 8
+
+**Ementário:**  
+Função de Transferência: Transformada de Laplace, Sistemas de Primeira Ordem; Sistemas de Segunda Ordem.&#160; Sistemas Dinâmicos: Sistemas em Malha Aberta e Malha Fechada; Diagramas de Identificação. Controle de Processos: Sistemas de Controle Clássico com Local das Raízes; Sistemas de Controle Digital; Projeto de Controladores. Controladores Lógicos Programáveis: Arquitetura; Linguagens de Programação; Sistemas de Supervisão.
+
+---
+
+### 📘 Trabalho de Conclusão de Curso II
+
+- Créditos: 4
+- Carga horária: 72h
+- Fase: 8
+
+**Ementário:**  
+Elaboração e Apresentação de Trabalho Científico com Síntese e Integração dos Conhecimentos Associados ao Perfil do Egresso, Seguindo Orientações do Manual de Procedimentos do Trabalho de Conclusão de Curso de Engenharia de Computação.
+
+---
+
+
+---
+## Professores
+
+## 👨‍🏫 Professores do Curso
+
+
+### 👤 Adilson Carlos Batista
+- ID: 422416
+- Lattes: http://lattes.cnpq.br/6001101081265850
+
+---
+
+### 👤 Camila Regina Rostirola
+- ID: 119989
+- Lattes: http://lattes.cnpq.br/7241897484276809
+
+---
+
+### 👤 Crisleine Zottis dos Reis
+- ID: 301052
+- Lattes: http://lattes.cnpq.br/4857292415384297
+
+---
+
+### 👤 Elisane Briao Zanela
+- ID: 288081
+- Lattes: http://lattes.cnpq.br/9396974331246062
+
+---
+
+### 👤 Lucas Fernando Fabro
+- ID: 42527
+- Lattes: 
+
+---
+
+### 👤 Marcel Tomas Grando
+- ID: 338199
+- Lattes: http://lattes.cnpq.br/3601501299591933
+
+---
+
+### 👤 Mauricio Joao Farinon
+- ID: 252413
+- Lattes: http://lattes.cnpq.br/4662963864148313
+
+---
+
+### 👤 Tiago Zonta
+- ID: 28552
+- Lattes: http://lattes.cnpq.br/7688136687120562
 
 ---
