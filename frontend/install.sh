@@ -2,7 +2,7 @@
 
 echo "⚙️ Install FRONTEND..."
 
-echo "[1/4] Verificando Python..."
+echo "[1/5] Verificando Python..."
 
 if ! command -v python3 &> /dev/null
 then
@@ -13,13 +13,13 @@ fi
 
 echo "Python3 encontrado: $(python3 --version)"
 
-echo "[2/4] Criando ambiente virtual..."
+echo "[2/5] Criando ambiente virtual..."
 python3 -m venv venv
 
-echo "[3/4] Ativando ambiente..."
+echo "[3/5] Ativando ambiente..."
 source venv/bin/activate
 
-echo "[4/4] Instalando dependências..."
+echo "[4/5] Instalando dependências..."
 pip install -r requirements.txt
 
-echo "[4/4] Instalação completa!"
+echo "[5/5] Instalação completa!"
