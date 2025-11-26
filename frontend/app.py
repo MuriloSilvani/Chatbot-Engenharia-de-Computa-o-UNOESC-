@@ -4,7 +4,7 @@ import os
 
 BACKEND_URL = os.getenv("BACKEND_URL", "http://backend:4000")
 
-st.set_page_config(page_title="Chatbot Engenharia UNOESC", page_icon="🤖")
+st.set_page_config(page_title="Chatbot – Engenharia de Computação (UNOESC)", page_icon="🤖")
 
 st.title("🤖 Chatbot – Engenharia de Computação (UNOESC)")
 st.write("Digite sua pergunta sobre o curso:")
