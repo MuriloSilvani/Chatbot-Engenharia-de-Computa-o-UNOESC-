@@ -6,8 +6,8 @@ BASE_PATH = "./ai/base_conhecimento.md"
 def load_knowledge():
     return open(BASE_PATH).read()
 
-def ask_gemini(question):
-    context = load_knowledge()
+def ask_gemini(question, context):
+    knowledge = load_knowledge()
 
     response = client.models.generate_content(
         model="gemini-2.5-flash",
@@ -16,6 +16,9 @@ def ask_gemini(question):
         SOMENTE usando as informações da base de conhecimento.
 
         BASE DE CONHECIMENTO:
+        {knowledge}
+
+        HISTORICO DE PERGUNTAS E RESPOSTAS:
         {context}
 
         Pergunta do usuário:

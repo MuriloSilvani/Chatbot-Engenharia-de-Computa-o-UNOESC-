@@ -33,7 +33,10 @@ if submitted:
             try:
                 response = requests.post(
                     BACKEND_URL + "/ask",
-                    json={"question": question}
+                    json={
+                      "question": question,
+                      "context": [f"{x['role']}: {x['content']}" for x in st.session_state.messages]
+                    }
                 )
                 answer = response.json().get("answer", "Erro ao gerar resposta.")
             except Exception as e:
